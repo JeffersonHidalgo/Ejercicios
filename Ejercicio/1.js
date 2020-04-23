@@ -3,7 +3,7 @@ let numero1=prompt("ingrese primer valor");
 let numero2=prompt("ingrese segundo valor");
 
 resto= numero1%numero2;
-function sJefferson(resto){
+function Jefferson(resto){
 
 if(resto==0){
     alert(numero1+"_es multiplo de_"+ numero2)
